@@ -1,0 +1,8 @@
+.amiiboCardContainer {
+  padding: 15px 15px;
+
+  border-width: 0.1rem;
+  border-style: solid;
+  border-color: rgb(218, 218, 218);
+  border-radius: 0.25rem;
+}
